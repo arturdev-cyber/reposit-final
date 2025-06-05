@@ -1,2 +1,8 @@
 # Reposit Final
-# O desafio final consistiu na implementação do PortfolioHUB integrado com a IA Gemini e ferramentas do Google Workspace, nele foram realizadas etapas como planejamento, configuração do ambiente, gestão de usuários, controle de acesso via Git e GitHub, além de testes para garantir o funcionamento completo da plataforma e como a IA Gemini apoiou cada fase do projeto.
+✅ Planejamento do projeto no Google Docs com apoio da IA Gemini
+✅ Criação do ambiente no Google Workspace e organização dos arquivos
+✅ Configuração do Google Calendar para controle dos prazos
+✅ Gestão de usuários com grupos, permissões e segurança avançada
+✅ Implantação de autenticação em dois fatores 🔒
+✅ Integração com Git e GitHub para controle de versões e colaboração
+✅ Revisão e testes de todos os componentes com checklist de validação
